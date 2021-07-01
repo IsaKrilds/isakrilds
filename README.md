@@ -20,6 +20,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23282C34?style=flat-square&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/-materialUI-%23282C34?style=flat-square&logo=materialUI)
+![styledComponents](https://img.shields.io/badge/-StyledComponents-%23282C34?style=flat-square&logo=styledComponents)
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=isakrilds&repo=isakrilds&countColorcountColor)
 
 <!--
