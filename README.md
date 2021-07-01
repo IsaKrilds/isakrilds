@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Isadora Sampaio 👋
 
 <p align="center">
   <a href="https://github.com/mthsmb">
