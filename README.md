@@ -1,10 +1,12 @@
-### Hi there, i'm Isadora Sampaio 👋
+### Hi there! I'm Isadora Sampaio 👋
 
 <p align="center">
   <a href="https://github.com/mthsmb">
     <img src="https://github-readme-stats.vercel.app/api?username=isakrilds&theme=react&show_icons=true" />
   </a>
 </p>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alefgaigher&repo=alefgaigher&countColorcountColor)
 
 <!--
 **IsaKrilds/isakrilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
