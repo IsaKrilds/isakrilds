@@ -30,8 +30,8 @@
 ![MaterialUI](https://img.shields.io/badge/-materialUI-%23282C34?style=flat-square&logo=materialUI)
 ![styledComponents](https://img.shields.io/badge/-StyledComponents-%23282C34?style=flat-square&logo=styledComponents)
 
-![Twitter](https://img.shields.io/badge/-@IsaKrilds-%23282C34?style=flat-square&logo=twitter)
-![GitHub](https://img.shields.io/badge/-@IsaKrilds-%23282C34?style=flat-square&logo=github)
+[![Twitter Badge](https://img.shields.io/badge/-@IsaKrilds-%23282C34?style=flat-square&logo=twitter)]
+[![GitHub Badge](https://img.shields.io/badge/-@IsaKrilds-%23282C34?style=flat-square&logo=github&link=https://github.com/IsaKrilds))](https://github.com/IsaKrilds/)
 [![Linkedin Badge](https://img.shields.io/badge/-IsadoraSampaio-%23282C34?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/isadora-sampaio-4bb74316b/)](https://www.linkedin.com/in/isadora-sampaio-4bb74316b/)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=isakrilds&repo=isakrilds&countColorcountColor)
