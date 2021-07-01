@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<a href="https://fontmeme.com/fonts/libre-franklin-font/"><img src="https://fontmeme.com/permalink/210701/5b31151a2a2ffcc57cde17b6a2b9b1e5.png" alt="libre-franklin-font" border="0"></a>
+<img src="https://fontmeme.com/permalink/210701/5b31151a2a2ffcc57cde17b6a2b9b1e5.png" alt="libre-franklin-font" border="0">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
