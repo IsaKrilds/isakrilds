@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mthsmb">
+  <a href="https://github.com/isakrilds">
     <img src="https://github-readme-stats.vercel.app/api?username=isakrilds&show_icons=true&theme=dracula" />
   </a>
 </p>
