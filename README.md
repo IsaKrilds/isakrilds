@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://fontmeme.com/permalink/210701/b8eeea432398bd2c3b457188b6e7c1d6.png" alt="libre-franklin-font" border="0">
+</p>
+
+<p align="center">
   <a href="https://github.com/isakrilds">
     <img src="https://github-readme-stats.vercel.app/api?username=isakrilds&show_icons=true&theme=dracula" />
   </a>
