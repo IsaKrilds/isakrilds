@@ -1,5 +1,6 @@
-### Hi there! I'm Isadora Sampaio 👋
-
+<p align="center">
+  <h3>Hi there! I'm Isadora Sampaio 👋<h3>
+</p>
 <p align="center">
   <a href="https://github.com/mthsmb">
     <img src="https://github-readme-stats.vercel.app/api?username=isakrilds&show_icons=true&theme=dracula" />
