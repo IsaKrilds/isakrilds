@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fontmeme.com/fonts/libre-franklin-font/"><img src="https://fontmeme.com/permalink/210701/971088dfffeb670faa9b964e267ed2c9.png" alt="libre-franklin-font" border="0"></a>
+  <a href="https://fontmeme.com/fonts/libre-franklin-font/"><img src="https://fontmeme.com/permalink/210701/67da2aa7ed7dfddb4878c9c3fe5924a0.png" alt="libre-franklin-font" border="0"></a>
 </p>
 <p align="center">
   <a href="https://github.com/mthsmb">
